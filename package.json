@@ -1,5 +1,5 @@
 {
-  "name": "codemirror_may",
+  "name": "mi1-epiclaunch",
   "version": "1.0.0",
   "description": "",
   "homepage": "http://.",
@@ -25,9 +25,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harsh2306/CodeMirror_May.git"
+    "url": "git+https://github.com/harsh2306/mi1-epiclaunch.git"
   },
   "bugs": {
-    "url": "https://github.com/harsh2306/CodeMirror_May/issues"
+    "url": "https://github.com/harsh2306/mi1-epiclaunch/issues"
   }
 }
